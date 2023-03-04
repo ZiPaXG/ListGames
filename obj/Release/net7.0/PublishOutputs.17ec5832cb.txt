@@ -1,0 +1,14 @@
+D:\C# WEB\ASP\ListGames\ListGames\obj\Release\net7.0\PubTmp\Out\ListGames.exe
+D:\C# WEB\ASP\ListGames\ListGames\obj\Release\net7.0\PubTmp\Out\appsettings.Development.json
+D:\C# WEB\ASP\ListGames\ListGames\obj\Release\net7.0\PubTmp\Out\appsettings.json
+D:\C# WEB\ASP\ListGames\ListGames\obj\Release\net7.0\PubTmp\Out\ListGames.dll
+D:\C# WEB\ASP\ListGames\ListGames\obj\Release\net7.0\PubTmp\Out\ListGames.runtimeconfig.json
+D:\C# WEB\ASP\ListGames\ListGames\obj\Release\net7.0\PubTmp\Out\ListGames.pdb
+D:\C# WEB\ASP\ListGames\ListGames\obj\Release\net7.0\PubTmp\Out\Microsoft.EntityFrameworkCore.dll
+D:\C# WEB\ASP\ListGames\ListGames\obj\Release\net7.0\PubTmp\Out\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\C# WEB\ASP\ListGames\ListGames\obj\Release\net7.0\PubTmp\Out\Microsoft.EntityFrameworkCore.Relational.dll
+D:\C# WEB\ASP\ListGames\ListGames\obj\Release\net7.0\PubTmp\Out\Microsoft.EntityFrameworkCore.Relational.Design.dll
+D:\C# WEB\ASP\ListGames\ListGames\obj\Release\net7.0\PubTmp\Out\Npgsql.dll
+D:\C# WEB\ASP\ListGames\ListGames\obj\Release\net7.0\PubTmp\Out\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\C# WEB\ASP\ListGames\ListGames\obj\Release\net7.0\PubTmp\Out\Npgsql.EntityFrameworkCore.PostgreSQL.Design.dll
+D:\C# WEB\ASP\ListGames\ListGames\obj\Release\net7.0\PubTmp\Out\ListGames.deps.json
