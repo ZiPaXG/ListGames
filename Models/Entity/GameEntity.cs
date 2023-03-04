@@ -10,6 +10,8 @@
         public int TypeOfGameId { get; set; }
         public string Author { get; set; }
         public float Price { get; set;}
+        public Genre? Genre { get; set; }
+        public TypeOfGame? TypeOfGame { get; set; }
 
         public override string ToString()
         {
